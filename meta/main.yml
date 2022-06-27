@@ -2,8 +2,8 @@ galaxy_info:
   author: Alexey Metlyakov
   description: Install elasticsearch from remote server
   company: Netology
-  role_name: elastic-role
-  galaxy_name: elastic-galaxy
+  role_name: elastic_name
+  namespace: elastic_namespace
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
